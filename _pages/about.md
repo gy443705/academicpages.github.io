@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+王尚旭，教授，博士生导师，博士学位，全国政协委员，国家973首席科学家。1962年生，北京市人。1984年毕业于武汉地质学院物探系获得学士学位，1990年毕业于华东石油学院获得博士学位。1990年至今在中国石油大学（北京）任教。曾任中石油物探重点实验室主任、中石化油藏地球物理研究中心主任和北京市地球探测与信息技术重点实验室主任，现任油气资源与探测国家重点实验室副主任。
+
+主要从事地震勘探领域的研究，包括岩石物理实验、地震物理模型实验、地震信号分析与反演。作为首席科学家主持了两轮国家973项目研究，总计发表SCI论文61篇，获发明专利5项，获国家科技进步二等奖2项。
 
 A data-driven personal website
 ======
