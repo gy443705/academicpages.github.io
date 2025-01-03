@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "课题组科普网站"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
