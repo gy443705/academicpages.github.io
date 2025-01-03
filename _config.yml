@@ -10,9 +10,9 @@
 locale                   : "en-US"
 title                    : "课题组科普网站"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+name                     : &name "王尚旭"
+description              : &description "专注于学术课题组的科普与研究介绍"
+url                      : https://gy443705.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
