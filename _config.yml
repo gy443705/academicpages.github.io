@@ -8,11 +8,11 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "课题组科普网站"
+title                    : "Your Name / Site Title"
 title_separator          : "-"
-name                     : &name "王尚旭"
-description              : &description "专注于学术课题组的科普与研究介绍"
-url                      : https://gy443705.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+name                     : &name "Your Name"
+description              : &description "personal description"
+url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -22,13 +22,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "王尚旭"
+  name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
-  bio              : "中国石油天然气集团公司创新团队负责人"
-  location         : "北京昌平"
-  employer         : "中国石油大学北京地球物理学院"
+  bio              : "Short biography for the left-hand sidebar"
+  location         : "Earth"
+  employer         : "Red Brick University"
   uri              : # URL
-  email            : "wangsx@cup.edu.cn" 
+  email            : "none@example.org" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
