@@ -13,29 +13,29 @@ redirect_from:
 
 科研成果
 ======
-1.Shangxu Wang, XiangYang Li, Zhongping Qian, Bangrang Di, Jianxin Wei； Physical modelling studies of 3-D P-wave seismic for fracture
+[1] Shangxu Wang, XiangYang Li, Zhongping Qian, Bangrang Di, Jianxin Wei； Physical modelling studies of 3-D P-wave seismic for fracture
 detection； Geophysical Journal International；168(2)(2007)
 
-2.Sanyi Yuan, Shangxu Wang, Nan Tian； Swarm intelligence optimization and its application in geophysical data inversion； Applied Geophysics； 6(2)(2009)；
+[2] Sanyi Yuan, Shangxu Wang, Nan Tian； Swarm intelligence optimization and its application in geophysical data inversion； Applied Geophysics； 6(2)(2009)；
 
-3.Shangxu Wang, Xiangyang Li, Bangrang Di, David Booth； Reservoir fluid substitution effects on seismic profile interpretation:A physical modeling experiment； Geophysical Research Letters； 37(10)(2010)
+[3] Shangxu Wang, Xiangyang Li, Bangrang Di, David Booth； Reservoir fluid substitution effects on seismic profile interpretation:A physical modeling experiment； Geophysical Research Letters； 37(10)(2010)
 
-4.Sanyi Yuan, Shangxu Wang, Guofa Li； Random noise reduction using Bayesian inversion； Journal of Geophysics and Engineering；
+[4] Sanyi Yuan, Shangxu Wang, Guofa Li； Random noise reduction using Bayesian inversion； Journal of Geophysics and Engineering；
 9(1)(2012)
 
-5.Shangxu Wang, JianguoZhao, Zhenhua Li, Jerry M. Harris, Youli Quan； Differential Acoustic Resonance Spectroscopy for the acoustic measurement of small and irregular samples in the low frequency range； Journal of Geophysical Research； 117(13)(2012)
+[5] Shangxu Wang, JianguoZhao, Zhenhua Li, Jerry M. Harris, Youli Quan； Differential Acoustic Resonance Spectroscopy for the acoustic measurement of small and irregular samples in the low frequency range； Journal of Geophysical Research； 117(13)(2012)
 
-6.Jianguo Zhao, Genyang Tang,Jixin Deng, Xiaolong Tong, Shangxu Wang； Determination of rock acoustic properties at low frequency:A differential acoustical resonance spectroscopy device and its estimation technique； Geophysical Research Letters； 40(12)(2013)
+[6] Jianguo Zhao, Genyang Tang,Jixin Deng, Xiaolong Tong, Shangxu Wang； Determination of rock acoustic properties at low frequency:A differential acoustical resonance spectroscopy device and its estimation technique； Geophysical Research Letters； 40(12)(2013)
 
-7.Sanyi Yuan,Shangxu Wang； Edge-preserving noise reduction based on Bayesian inversion with directional difference constraints； Journal of Geophysics and Engineering； 10(2)(2013)
+[7] Sanyi Yuan,Shangxu Wang； Edge-preserving noise reduction based on Bayesian inversion with directional difference constraints； Journal of Geophysics and Engineering； 10(2)(2013)
 
-8.Sanyi Yuan, Shangxu Wang； Spectral sparse Bayesian learning reflectivity inversion； Geophysical Prospecting； 61(4)（2013）
+[8] Sanyi Yuan, Shangxu Wang； Spectral sparse Bayesian learning reflectivity inversion； Geophysical Prospecting； 61(4)（2013）
 
-9.Xintao Chai, Shangxu Wang, Sanyi Yuan, Jianguo Zhao, Langqiu Sun, Xian Wei； Sparse reflectivity inversion of nonstationary seismic data； Geophysics； 79(3)(2014)
+[9] Xintao Chai, Shangxu Wang, Sanyi Yuan, Jianguo Zhao, Langqiu Sun, Xian Wei； Sparse reflectivity inversion of nonstationary seismic data； Geophysics； 79(3)(2014)
 
-10.Sanyi Yuan, Shangxu Wang, Chunmei Luo, Yanxiao He； Simultaneous multitrace impedance inversion with transform-domain sparsity promotion； Geophysics； 80(2)（2015）
+[10] Sanyi Yuan, Shangxu Wang, Chunmei Luo, Yanxiao He； Simultaneous multitrace impedance inversion with transform-domain sparsity promotion； Geophysics； 80(2)（2015）
 
-11.Sanyi Yuan, Shangxu Wang, Ming Ma, Yongzhen Ji, Li Deng； Sparse Bayesian learning-based time-variant deconvolution； IEEE Transactions on Geoscience and Remote Sensing ； 55(11)(2017)；
+[11] Sanyi Yuan, Shangxu Wang, Ming Ma, Yongzhen Ji, Li Deng； Sparse Bayesian learning-based time-variant deconvolution； IEEE Transactions on Geoscience and Remote Sensing ； 55(11)(2017)；
 
 科研成就
 ======
