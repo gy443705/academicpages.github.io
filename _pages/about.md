@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "这是一个个人学术网站"
+title: "个人简洁"
 author_profile: true
 redirect_from: 
   - /about/
